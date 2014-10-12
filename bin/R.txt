@@ -363,6 +363,7 @@ int string message_button 0x7f0b0016
 int string message_hint 0x7f0b0015
 int string message_label 0x7f0b0014
 int string powered_by 0x7f0b000f
+int string pref_title_apiendpoint 0x7f0b0021
 int string pref_title_display_nickname 0x7f0b0020
 int string pref_title_display_passphrase 0x7f0b001f
 int string title_activity_settings 0x7f0b001e
