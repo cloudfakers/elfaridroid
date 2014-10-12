@@ -15,5 +15,14 @@
         android:selectAllOnFocus="true"
         android:singleLine="true"
         android:title="@string/pref_title_display_nickname" />
+    
+    <EditTextPreference
+        android:defaultValue="http://elfariapibot.herokuapp.com"
+        android:key="apiendpoint"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:textSize="14dp"
+        android:title="@string/pref_title_apiendpoint" />
 
 </PreferenceScreen>

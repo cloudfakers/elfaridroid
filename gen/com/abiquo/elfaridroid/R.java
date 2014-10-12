@@ -1265,6 +1265,7 @@ containing a value of this type.
         public static final int message_hint=0x7f0b0015;
         public static final int message_label=0x7f0b0014;
         public static final int powered_by=0x7f0b000f;
+        public static final int pref_title_apiendpoint=0x7f0b0021;
         public static final int pref_title_display_nickname=0x7f0b0020;
         public static final int pref_title_display_passphrase=0x7f0b001f;
         public static final int title_activity_settings=0x7f0b001e;

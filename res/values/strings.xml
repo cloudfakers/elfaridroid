@@ -17,6 +17,6 @@
     <string name="error_api_communication">ERROR: Can\'t contact elFariDroid API</string>
     <string name="error_empty_message">Type a message first!</string>
     <string name="info_message_processed">Message has been processed</string>
-    <string name="elfaridroidversion">Version: 0.1</string>
+    <string name="elfaridroidversion">Version: 0.2</string>
 
 </resources>

@@ -4,5 +4,6 @@
 
     <string name="pref_title_display_passphrase">Passphrase</string>
     <string name="pref_title_display_nickname">IRC Nickname</string>
+    <string name="pref_title_apiendpoint">API endpoint</string>
 
 </resources>
